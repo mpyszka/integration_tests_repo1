@@ -4,3 +4,4 @@ BRACKETS-45
 I-1
 
 Change for pull request PR-1_small_changes
+Change for second pull request PR-2_small_changes
