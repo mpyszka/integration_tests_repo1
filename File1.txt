@@ -11,3 +11,4 @@ First commit SQUASH-11
 Second commit SQUASH-12
 
 First commit this time SQUASHCOMMIT-11
+First commit this time SQUASHCOMMIT-12
